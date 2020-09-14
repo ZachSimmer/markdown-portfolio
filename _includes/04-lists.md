@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## My Favorite Things :+1:
+### 
+* Hockey
+* Xbox
+* Neflix
+* Music
